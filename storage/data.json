@@ -1,0 +1,19 @@
+{
+"timestamp": 1538491323,
+"satellite_id": 42,
+"collection": [
+{
+"set_id": 4,
+"condition": "Good",
+"status": "OK",
+"errors": []
+},
+{
+"set_id": 7,
+"condition": "Good",
+"status": "OK",
+"errors": []
+}
+
+]
+}

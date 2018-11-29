@@ -1,24 +1,9 @@
-# README
+Used in coordination with star-books React front end
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+JSON data may be added to data.json file in /storage
 
-Things you may want to cover:
+After JSON editted, visit localhost:3000/upload to auto import data
 
-* Ruby version
+Future edits:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Either add file upload capability in rails or JSON upload capability in React front end.
